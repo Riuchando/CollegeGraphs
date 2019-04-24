@@ -47,15 +47,25 @@ I seem to have lost some of the cleaned data, but was trying to determine by dep
 
 ##### References #####
 for electricity prices
-http://www.eia.gov/totalenergy/data/annual/showtext.cfm?t=ptb0810
-for gas prices, for more recent price, google keeps track of it
-http://www.davemanuel.com/2010/12/30/historical-gas-prices-in-the-united-states/
-general tuition prices
-https://nces.ed.gov/programs/digest/d13/tables/dt13_330.10.asp
-couldn't find a table that represented it, so manually inputted $1 in one slot and found the correlation
-http://www.usinflationcalculator.com/
-finding 1996-2013 Yale tuition costs
-http://oir.yale.edu/yale-factsheet
-finding 1964-2013 scaled to 2007 tution costs for Harvard
-http://kwharbaugh.blogspot.com/2005/02/educational-costs.html
 
+http://www.eia.gov/totalenergy/data/annual/showtext.cfm?t=ptb0810
+
+for gas prices, for more recent price, google keeps track of it
+
+http://www.davemanuel.com/2010/12/30/historical-gas-prices-in-the-united-states/
+
+general tuition prices
+
+https://nces.ed.gov/programs/digest/d13/tables/dt13_330.10.asp
+
+couldn't find a table that represented it, so manually inputted $1 in one slot and found the correlation
+
+http://www.usinflationcalculator.com/
+
+finding 1996-2013 Yale tuition costs
+
+http://oir.yale.edu/yale-factsheet
+
+finding 1964-2013 scaled to 2007 tution costs for Harvard
+
+http://kwharbaugh.blogspot.com/2005/02/educational-costs.html
